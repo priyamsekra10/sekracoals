@@ -14,7 +14,7 @@ export default function Footer() {
         <div className="flex flex-col items-center sm:items-stretch">
           <div className="flex flex-col items-center gap-12 sm:items-start sm:justify-between sm:gap-8 lg:flex-row">
             <div className="text-neutral-400 text-4xl ">
-              CHARCOVE
+              SEKRA COALS
             </div>
             <ul className="flex flex-col items-center gap-4 sm:flex-row sm:justify-start">
               {navigationLinks.map((link) => (

@@ -139,7 +139,7 @@ export default function Navigation() {
               />
             </div>
             <div className="text-neutral-400 text-3xl ">
-              CHARCOVE
+              SEKRA COALS
             </div>
             {isMobileMenuOpen ? (
               <MobileNavigation
